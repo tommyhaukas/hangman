@@ -1,0 +1,1 @@
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\bin\Debug\hangman.exe.config
